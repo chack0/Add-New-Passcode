@@ -1,3 +1,10 @@
+//
+//
+//
+//
+// The Initial Password which i gave is = admin
+//
+//
 import 'package:createpasscodepage/enterPasscode.dart';
 import 'package:flutter/material.dart';
 import 'package:createpasscodepage/src/resources/fontsclass.dart';
